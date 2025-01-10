@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: a NullPointerException arising from the implicit handling of null values when accessing properties.  The `bug.groovy` file shows the problematic code, while `bugSolution.groovy` provides a corrected version using explicit null checks and the Elvis operator.
